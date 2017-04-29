@@ -1,7 +1,5 @@
+### Created by https://www.gitignore.io/api/macos
 
-# Created by https://www.gitignore.io/api/macos
-
-### macOS ###
 *.DS_Store
 .AppleDouble
 .LSOverride
@@ -28,4 +26,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# End of https://www.gitignore.io/api/macos
+### Other
